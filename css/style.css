@@ -56,7 +56,7 @@ body {
 }
 .ba-product__image:hover {
   transform: skew(-5deg);
-  transform: scale(1.5);
+  /*transform: scale(1.5);*/
 }
 
 .ba-product__info {
